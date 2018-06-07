@@ -1,0 +1,88 @@
+* {
+  font-family: Source Sans Pro, sans-serif, Lucida Sans;
+  margin: 0;
+}
+nav {
+  background-color: #c12127;
+  color: rgba(255, 255, 255, 0.8);
+  padding-top: 15px;
+  height: 30px;
+}
+
+.top-links {
+  display: inline-block;
+  float: right;
+  padding: 0;
+  margin: 0 20px 0 0;
+}
+
+.top-links li {
+  display: inline-block;
+  margin: 0 10px;
+}
+
+.top-left {
+  padding: 0;
+  margin: 0 20px 0 0;
+  float: left;
+}
+nav a {
+  color: rgba(255, 255, 255, 0.8);
+  text-decoration: none;
+}
+header {
+  background-color: rgb(32, 101, 136);
+  color: rgba(255, 255, 255, 0.8);
+}
+.header-part-1 {
+  float: left;
+  width: 100%;
+  display: inline-block;
+  height: 400px;
+  padding-top: 10px;
+  height: 40px;
+}
+.header-part-1 a {
+  color: rgba(255, 255, 255, 0.8);
+  text-decoration: none;
+  vertical-align: top;
+}
+.npm-logo {
+  height: 30px;
+  float: left;
+  margin: 0 20px 0 20px;
+}
+.searchbar {
+  width: 95%;
+}
+.bear {
+  height: 30px;
+  margin: 0 10px 0 10px;
+}
+.search {
+  float: left;
+  width: 80vw;
+  display: inline-block;
+}
+form {
+  display: inline-block;
+  width: 80%;
+}
+.login {
+  float: right;
+  display: inline-block;
+}
+
+.header-part-2 {
+  width: 50%;
+  margin: 0 auto;
+}
+
+.clearfix {
+  clear: both;
+}
+
+h1 {
+  color: white;
+  font-size: 3em;
+}
